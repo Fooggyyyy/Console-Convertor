@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Convertor\bin\Debug\net8.0\Convertor.exe
+C:\Users\user\source\repos\Convertor\bin\Debug\net8.0\Convertor.deps.json
+C:\Users\user\source\repos\Convertor\bin\Debug\net8.0\Convertor.runtimeconfig.json
+C:\Users\user\source\repos\Convertor\bin\Debug\net8.0\Convertor.dll
+C:\Users\user\source\repos\Convertor\bin\Debug\net8.0\Convertor.pdb
+C:\Users\user\source\repos\Convertor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Convertor\obj\Debug\net8.0\Convertor.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Convertor\obj\Debug\net8.0\Convertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Convertor\obj\Debug\net8.0\Convertor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Convertor\obj\Debug\net8.0\Convertor.AssemblyInfo.cs
+C:\Users\user\source\repos\Convertor\obj\Debug\net8.0\Convertor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Convertor\obj\Debug\net8.0\Convertor.csproj.Up2Date
+C:\Users\user\source\repos\Convertor\obj\Debug\net8.0\Convertor.dll
+C:\Users\user\source\repos\Convertor\obj\Debug\net8.0\refint\Convertor.dll
+C:\Users\user\source\repos\Convertor\obj\Debug\net8.0\Convertor.pdb
+C:\Users\user\source\repos\Convertor\obj\Debug\net8.0\Convertor.genruntimeconfig.cache
+C:\Users\user\source\repos\Convertor\obj\Debug\net8.0\ref\Convertor.dll
